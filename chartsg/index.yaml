@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  certsg:
+  - apiVersion: v1
+    appVersion: "0.1"
+    created: "2019-06-26T00:59:52.312981+02:00"
+    description: A Helm chart for managing Let's encrypt certificates
+    digest: e6b23fbacf2d158e0734e6f699ac8c6966cb05031361fd4aa16d39d293af2ce4
+    name: certsg
+    urls:
+    - https://grekier.github.io/certs/chartsg/certsg-0.1.tgz
+    version: "0.1"
+generated: "2019-06-26T00:59:52.312479+02:00"

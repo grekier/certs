@@ -5,7 +5,7 @@ set -x
 
 echo "Starting..."
 
-CHARTS_PATH="charts"
+CHARTS_PATH="chartsg"
 
 mkdir -p "${CHARTS_PATH}"
 
