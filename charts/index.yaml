@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  certs:
+  certsg:
   - apiVersion: v1
-    appVersion: "1.0"
-    created: 2019-06-06T20:54:17.972594+02:00
+    appVersion: "0.1"
+    created: "2019-06-26T00:30:06.564391+02:00"
     description: A Helm chart for managing Let's encrypt certificates
-    digest: 790b6902ad4b95bcfd6f6906d2f028d7fd723e8fecb4c5774b9b6c565b104aae
-    name: certs
+    digest: 6e4c3859d1160d2e836583c7befbfb8115186dece1fa44a67775f825a1ee35ca
+    name: certsg
     urls:
-    - https://math-nao.github.io/certs/charts/certs-1.0.0.tgz
-    version: 1.0.0
-generated: 2019-06-06T20:54:17.97134+02:00
+    - https://grekier.github.io/certs/charts/certsg-0.1.tgz
+    version: "0.1"
+generated: "2019-06-26T00:30:06.563588+02:00"

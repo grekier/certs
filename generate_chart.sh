@@ -9,10 +9,10 @@ CHARTS_PATH="charts"
 
 mkdir -p "${CHARTS_PATH}"
 
-helm package certs
+helm package certsg
 
-mv -f certs-*.tgz "${CHARTS_PATH}"/
+mv -f certsg-*.tgz "${CHARTS_PATH}"/
 
-helm repo index "${CHARTS_PATH}" --url "https://math-nao.github.io/certs/${CHARTS_PATH}"
+helm repo index "${CHARTS_PATH}" --url "https://grekier.github.io/certs/${CHARTS_PATH}"
 
 echo "Done."
